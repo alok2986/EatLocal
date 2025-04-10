@@ -4,11 +4,11 @@ EatLocal is a web application designed to help users discover local dishes and r
 
 ## Features
 
+- **Responsive Design**: Optimized for different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
+- **Clean UI/UX**: User-centric design focusing on easy navigation and visually appealing interfaces.
 - **Discover Local Dishes & Restaurants**: Users can explore local dishes and restaurants based on their location.
 - **Google Maps Integration**: Find nearby restaurants with ease using Google Maps integration.
 - **YouTube API**: Watch recipe tutorials directly from YouTube to learn how to make local dishes.
-- **Responsive Design**: Optimized for different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
-- **Clean UI/UX**: User-centric design focusing on easy navigation and visually appealing interfaces.
 
 ## Technologies Used
 
