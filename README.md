@@ -2,6 +2,8 @@
 
 EatLocal is a web application designed to help users discover local dishes and restaurants. It integrates Google Maps and YouTube APIs to enhance the user experience by providing location-based exploration and recipe learning. This project focuses on a clean, intuitive UI, ease of navigation, and responsive design principles.
 
+![Image Alt Text](https://github.com/alok2986/EatLocal/tree/main/Webapp%20Images)
+
 ## Features
 
 - **Responsive Design**: Optimized for different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
